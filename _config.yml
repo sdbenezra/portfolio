@@ -3,7 +3,7 @@ description: Personal website of Sigrid Benezra
 baseurl: ""
 url: https://sdbenezra.github.io/sdbenezra-portfolio/
 
-theme: cvless
+remote_theme: cvless
 
 # site settings
 taglong: Software Engineer, Artist, Musician
