@@ -1,0 +1,34 @@
+title: sigrid benezra
+description: Personal website of Sigrid Benezra
+baseurl: https://sdbenezra.github.io/sdbenezra-portfolio/
+url: https://sdbenezra.github.io/sdbenezra-portfolio/
+
+theme: cvless
+
+# site settings
+taglong: Software Engineer, Artist, Musician
+tagshort: Software Engineer
+
+# author settings
+author:
+  name: Sigrid Benezra
+  email: sigrid@norwestagency.com
+photo: assets/files/photo.jpg
+address: Seattle, WA
+phone: 206-499-8155
+
+# social media links
+social:
+  facebook:
+  github: https://github.com/sdbenezra?tab=repositories
+  instagram:
+  linkedin: https://www.linkedin.com/in/sdbenezra
+  stackoverflow:
+  x:
+
+# build settings
+permalink: pretty
+exclude:
+  - docker-compose.yml
+  - LICENSE
+  - README.md
