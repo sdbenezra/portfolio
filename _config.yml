@@ -1,6 +1,6 @@
 title: sigrid benezra
 description: Personal website of Sigrid Benezra
-baseurl: https://sdbenezra.github.io/sdbenezra-portfolio/
+baseurl: ""
 url: https://sdbenezra.github.io/sdbenezra-portfolio/
 
 theme: cvless
@@ -20,9 +20,9 @@ phone: 206-499-8155
 # social media links
 social:
   facebook:
-  github: https://github.com/sdbenezra?tab=repositories
+  github: sdbenezra
   instagram:
-  linkedin: https://www.linkedin.com/in/sdbenezra
+  linkedin: sdbenezra
   stackoverflow:
   x:
 
