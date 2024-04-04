@@ -1,9 +1,13 @@
 title: sigrid benezra
 description: Personal website of Sigrid Benezra
 baseurl:
-url: https://sdbenezra.github.io/sdbenezra-portfolio/
+url: https://sdbenezra.github.io/sdbenezra-portfolio
 
+# use line below for deployment to github
 remote_theme: piazzai/cvless
+
+# use line below for local development
+# theme: cvless
 
 # site settings
 taglong: Software Engineer, Artist, Musician
@@ -15,7 +19,7 @@ author:
   email: sigrid@norwestagency.com
 photo: assets/files/photo.jpg
 address: Seattle, WA
-phone: 206-499-8155
+phone:
 
 # social media links
 social:
