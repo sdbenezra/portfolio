@@ -1,6 +1,6 @@
 title: sigrid benezra
 description: Personal website of Sigrid Benezra
-baseurl:
+#baseurl: ""
 url: https://sdbenezra.github.io/portfolio
 
 # use line below for deployment to github
