@@ -1,7 +1,7 @@
 title: sigrid benezra
 description: Personal website of Sigrid Benezra
 baseurl:
-url: https://sdbenezra.github.io/sdbenezra-portfolio
+url: https://sdbenezra.github.io/portfolio
 
 # use line below for deployment to github
 remote_theme: piazzai/cvless
