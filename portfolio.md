@@ -2,7 +2,7 @@
 layout: home
 title: Portfolio
 ---
-[Home]({{ site.url }}/index)
+[Home]({{ site.url }}/#scroll)
 
 # Portfolio
 

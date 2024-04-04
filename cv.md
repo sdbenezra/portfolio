@@ -2,7 +2,7 @@
 layout: cv
 title: CV
 ---
-[Home]({{ site.url }}/index)
+[Home]({{ site.url }}/#scroll)
 # Sigrid Benezra
 
 {% include contact.html %}
@@ -69,4 +69,4 @@ May 2023 - Current
 
 [Print Version]({{ site.url }}/assets/files/SBenezra_Resume.pdf)
 
-[Home]({{ site.url }}/index)
+[Home]({{ site.url }}/#scroll)
