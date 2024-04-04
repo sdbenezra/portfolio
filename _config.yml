@@ -1,9 +1,9 @@
 title: sigrid benezra
 description: Personal website of Sigrid Benezra
-baseurl: ""
+baseurl:
 url: https://sdbenezra.github.io/sdbenezra-portfolio/
 
-remote_theme: sdbenezra/cvless
+remote_theme: piazzai/cvless
 
 # site settings
 taglong: Software Engineer, Artist, Musician
