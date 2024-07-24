@@ -37,6 +37,4 @@ A Vanilla JS demo project using the Transformers.js library that allows you to r
 
 This project allows you to run Retrieval-Augmented Generation (RAG) with a privately deployed LLM on your local machine using Ollama. Alternatively you can deploy to a server.
 
-[View the running site here](http://64.23.201.184:8501/)
-
 [Github link](https://github.com/sdbenezra/dockerized-ollama-mistral)
